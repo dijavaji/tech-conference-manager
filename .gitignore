@@ -27,3 +27,24 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+.pmd
+.jazzignore
+.settings
+.externalToolBuilders
+.metadata
+.mylyn
+.plugins
+.log
+.class
+.classpath
+.settings
+.org.eclipse.*
+target
+bin
+/bin
+/target
+jspm_packages
+node_modules
+dist
+${env.JBOSS_HOME}

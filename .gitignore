@@ -3,6 +3,9 @@
 *.classpath
 *.settings
 */target
+*/.classpath
+*/.settings
+*target
 
 # Log file
 *.log
